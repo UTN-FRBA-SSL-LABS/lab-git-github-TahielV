@@ -16,6 +16,7 @@ int restar(int a, int b) {
 
 int multiplicar(int a, int b) {
     return a * b;
+    //Se borró void y se modificó para que muestre resultado
 }
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
