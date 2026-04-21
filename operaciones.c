@@ -23,7 +23,7 @@ int multiplicar(  const a, const b)
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
-int esPar(const int n) 
+int esPar( int n) 
 {
     return (n % 2) == 0;
 }
